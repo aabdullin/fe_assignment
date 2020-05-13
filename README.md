@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 
 2.Fixing: Add the key for youtube APIs and update latest version of APIs in Youtube BaseURL
 
-3.Feature: Update `Five wide column` to display 7 video-items
+3.Feature: Update `Five Wide` column to display 7 video-items
 
 4.Feature: Create search button to ‘Search box’
 
