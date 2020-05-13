@@ -21,4 +21,4 @@ You will also see any lint errors in the console.
 
 4.Feature: Create search button to ‘Search' box
 
-5.Enhancement: Change background color of page  to `lightblue, #ADD8E6, rgb(173,216,230)`. Add a background image on an HTML element
+5.Enhancement: Change background to `lightblue, #ADD8E6, rgb(173,216,230)` and add a background image on a HTML page 
